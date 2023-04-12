@@ -87,12 +87,9 @@ Full subtractor:
 
 ## Timing diagram 
 
-![Uploading u.png…]()
-
-## Truthtable
-
 ![c](https://user-images.githubusercontent.com/119559844/231474992-050c04d6-87b7-4e67-a7e3-ef1fc45a7922.png)
 
+## Truthtable
 
 ![k](https://user-images.githubusercontent.com/119559844/231475035-1c8aaef8-ee33-42b7-b8ef-3401b06a63da.png)
 
