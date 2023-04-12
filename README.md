@@ -79,17 +79,23 @@ RTL realization
 
 ![TT4 ](https://user-images.githubusercontent.com/119559844/231472699-04896f0b-efa7-44fc-866a-0ad73a2df746.png)
 
-
-
-
-## Truthtable
-
-
+Full subtractor:
 
 ##  RTL realization
 
+![f](https://user-images.githubusercontent.com/119559844/231475182-fed2a7d8-7fa7-4f4c-802e-ce1bf77a73d3.png)
 
 ## Timing diagram 
+
+![Uploading u.png…]()
+
+## Truthtable
+
+![c](https://user-images.githubusercontent.com/119559844/231474992-050c04d6-87b7-4e67-a7e3-ef1fc45a7922.png)
+
+
+![k](https://user-images.githubusercontent.com/119559844/231475035-1c8aaef8-ee33-42b7-b8ef-3401b06a63da.png)
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
