@@ -64,6 +64,24 @@ endmodule
 ```
 ## Output:
 
+Half subtractor:
+
+
+RTL realization
+
+![RTL 1 ](https://user-images.githubusercontent.com/119559844/231472143-3ef6da33-0119-4000-a1d2-9dd21fba3716.png
+
+## Timing diagram 
+
+![TIMING ](https://user-images.githubusercontent.com/119559844/231472344-9a30452f-15a4-4e0a-a945-8cf81041340b.png)
+
+## Truthtable
+
+![TT4 ](https://user-images.githubusercontent.com/119559844/231472699-04896f0b-efa7-44fc-866a-0ad73a2df746.png)
+
+
+
+
 ## Truthtable
 
 
