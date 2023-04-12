@@ -48,7 +48,20 @@ assign B = (~X & Y);
 
 endmodule
 ```
+```
+Full subtractor:
+module fullsub(X,Y,Z,Borrow,Difference); 
 
+input X,Y,Z; 
+
+output Borrow,Difference; 
+
+assign Difference = (X^Y^Z); 
+
+assign Borrow = (~X&(Y^Z)|(Y&Z)); 
+
+endmodule
+```
 ## Output:
 
 ## Truthtable
