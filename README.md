@@ -33,11 +33,21 @@ Write the detailed procedure here
 
 
 ## Program:
-/*
+
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: NIVETHA K 
+RegisterNumber:212222230102
+
+```
+Half subtractor:
+module halfsub(output B,D, input X,Y); 
+
+assign D = (X ^ Y); 
+
+assign B = (~X & Y);
+
+endmodule
+```
 
 ## Output:
 
