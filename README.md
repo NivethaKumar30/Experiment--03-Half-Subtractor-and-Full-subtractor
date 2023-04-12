@@ -69,7 +69,7 @@ Half subtractor:
 
 RTL realization
 
-![RTL 1 ](https://user-images.githubusercontent.com/119559844/231472143-3ef6da33-0119-4000-a1d2-9dd21fba3716.png
+![RTL 1 ](https://user-images.githubusercontent.com/119559844/231472143-3ef6da33-0119-4000-a1d2-9dd21fba3716.png)
 
 ## Timing diagram 
 
