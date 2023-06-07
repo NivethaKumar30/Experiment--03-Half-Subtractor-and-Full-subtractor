@@ -64,34 +64,25 @@ endmodule
 ```
 ## Output:
 
-Half subtractor:
+Half subtractor gates :
+
+![1](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/56baf22e-8051-43e5-98a9-4b7131da93be)
+
+![2](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/71db73ae-58f0-4275-8bda-34d5ed73c818)
+
+![3](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/0c0d2cd4-fb01-470d-bf93-773f3eb4f542)
+
+![4](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/d70ad0fb-36bb-4aa2-b5d6-1eccdee4e142)
+
+![5](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/306dfaaf-d1f8-430f-8d5e-225345055a8c)
+
+![6](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/d1fc1c23-fbcf-487b-9fc1-8b1db2ace334)
+
+![7](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/b6805c2d-aba9-4102-a4c5-f0888f6a1255)
+
+![8](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/f05c0985-8425-4e5f-8d64-d9e5a89d7736)
 
 
-RTL realization
-
-![RTL 1 ](https://user-images.githubusercontent.com/119559844/231472143-3ef6da33-0119-4000-a1d2-9dd21fba3716.png)
-
-## Timing diagram 
-
-![TIMING ](https://user-images.githubusercontent.com/119559844/231472344-9a30452f-15a4-4e0a-a945-8cf81041340b.png)
-
-## Truthtable
-
-![TT4 ](https://user-images.githubusercontent.com/119559844/231472699-04896f0b-efa7-44fc-866a-0ad73a2df746.png)
-
-Full subtractor:
-
-##  RTL realization
-
-![f](https://user-images.githubusercontent.com/119559844/231475182-fed2a7d8-7fa7-4f4c-802e-ce1bf77a73d3.png)
-
-## Timing diagram 
-
-![c](https://user-images.githubusercontent.com/119559844/231474992-050c04d6-87b7-4e67-a7e3-ef1fc45a7922.png)
-
-## Truthtable
-
-![k](https://user-images.githubusercontent.com/119559844/231475035-1c8aaef8-ee33-42b7-b8ef-3401b06a63da.png)
 
 
 ## Result:
