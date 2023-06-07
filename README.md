@@ -38,28 +38,28 @@ Program to design a half subtractor and full subtractor circuit and verify its t
 Developed by: NIVETHA K 
 RegisterNumber:212222230102
 
+
+HALF SUBTRACTOR
 ```
-Half subtractor:
-module halfsub(output B,D, input X,Y); 
-
-assign D = (X ^ Y); 
-
-assign B = (~X & Y);
-
+module HalfSubtractor(A,B,Diff,Borrow);
+input A,B;
+output Diff,Borrow;
+wire x;
+xor (Diff, A,B);
+not(x,A);
+and(Borrow,x,B);
 endmodule
 ```
-```
+
 Full subtractor:
-module fullsub(X,Y,Z,Borrow,Difference); 
-
-input X,Y,Z; 
-
-output Borrow,Difference; 
-
-assign Difference = (X^Y^Z); 
-
-assign Borrow = (~X&(Y^Z)|(Y&Z)); 
-
+```
+module FullSubtractor(A,B,C,Diff,Borrow);
+input A,B,C;
+output Diff,Borrow;
+wire p;
+assign Diff = ((A^B)^C);
+not(p,A);
+assign Borrow = ((p&B)|(p&C)|(B&C));
 endmodule
 ```
 ## Output:
