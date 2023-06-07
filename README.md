@@ -66,36 +66,43 @@ endmodule
 
 Half subtractor gates :
 
+
 ![1](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/56baf22e-8051-43e5-98a9-4b7131da93be)
 
 Truthtable
+
 
 ![2](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/71db73ae-58f0-4275-8bda-34d5ed73c818)
 
 RTL realization
 
+
 ![3](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/0c0d2cd4-fb01-470d-bf93-773f3eb4f542)
 
 Timing diagram
 
+
 ![4](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/d70ad0fb-36bb-4aa2-b5d6-1eccdee4e142)
 
-Full Subractor: Gates:
+Full Subractor Gates:
+
 
 ![5](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/306dfaaf-d1f8-430f-8d5e-225345055a8c)
 
 Truthtable :
 
+
 ![6](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/d1fc1c23-fbcf-487b-9fc1-8b1db2ace334)
 
-Truthtable :
+RTL realization:
+
 
 ![7](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/b6805c2d-aba9-4102-a4c5-f0888f6a1255)
 
 Timing diagram :
 
-![8](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/f05c0985-8425-4e5f-8d64-d9e5a89d7736)
 
+![8](https://github.com/NivethaKumar30/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119559844/f05c0985-8425-4e5f-8d64-d9e5a89d7736)
 
 
 
