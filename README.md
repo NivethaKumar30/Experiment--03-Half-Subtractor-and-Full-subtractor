@@ -41,6 +41,7 @@ RegisterNumber:212222230102
 
 HALF SUBTRACTOR
 ```
+
 module HalfSubtractor(A,B,Diff,Borrow);
 input A,B;
 output Diff,Borrow;
@@ -50,9 +51,9 @@ not(x,A);
 and(Borrow,x,B);
 endmodule
 ```
-
-Full subtractor:
 ```
+FULL SUBTRACTOR
+
 module FullSubtractor(A,B,C,Diff,Borrow);
 input A,B,C;
 output Diff,Borrow;
